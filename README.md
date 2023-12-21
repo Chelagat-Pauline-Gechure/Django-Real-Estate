@@ -12,14 +12,3 @@ A full featured real estate website. that let user find properties in the prefer
 * You can by your house/flat
 * You can sell your house/flat
 * User-friendly.
-
-
-### Screenshots
-
-![Home](https://github.com/nimadorostkar/Django-RealEstate/blob/master/screenshots/1.png)
-
-![Items](https://github.com/nimadorostkar/Django-RealEstate/blob/master/screenshots/2.png)
-
-![Admin](https://github.com/nimadorostkar/Django-RealEstate/blob/master/screenshots/3.png)
-
-![Admin](https://github.com/nimadorostkar/Django-RealEstate/blob/master/screenshots/4.png)
