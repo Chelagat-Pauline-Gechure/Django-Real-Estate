@@ -266,7 +266,7 @@ def gettext(s): return s
 
 
 LANGUAGES = (
-    ('de', gettext('German')),
+    #('de', gettext('German')),
     ('en', gettext('English')),
 )
 
@@ -274,7 +274,7 @@ MODELTRANSLATION_DEFAULT_LANGUAGE = 'en'
 
 LANGUAGE_CODE = 'en'
 
-TIME_ZONE = 'Europe/Berlin'
+TIME_ZONE = 'Africa/Nairobi'
 
 USE_I18N = True
 
