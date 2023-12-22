@@ -15,7 +15,7 @@
                     </span>
                 </div>
                 <input type="text" name="keywords" class="form-control"
-                    placeholder='{{ _("Keyword (Pool, Garage, etc)") }}'>
+                    placeholder='{{ _("Keyword (Security, Parking, etc)") }}'>
             </div>
 
             <div class="input-group col-12 col-xs-6 col-md-3 mb-3 text-left">
@@ -42,7 +42,7 @@
                     </span>
                 </div>
                 <select name="state" class="form-control">
-                    <option selected="true">{{ _("States (All)") }}</option>
+                    <option selected="true">{{ _("County (All)") }}</option>
                     {% for state in states %}
                     <option value="{{ state.id }}">{{ state.name }}</option>
                     {% endfor %}
